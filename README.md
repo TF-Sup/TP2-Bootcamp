@@ -4,9 +4,8 @@ Pour accéder à une description plus approfondit du projet :
  
 ## Avant de commencer :
 * Pour améliorer ma procédure de test j'ai fait en sorte que lors de la création mais aussi si tout les contacts on étaient supprimer un contact nommé TEST est créer.
-* wiki de L'architecture : 
 
-
+* wiki de L'architecture : https://github.com/TF-Sup/TP2-Bootcamp/wiki/Architecture-du-projet
 
 ## Explication des boutons :
 * Ajouter un contact : **add_contact.php** permet d'ajouter un nouveau contact après avoir vérifié les informations.
