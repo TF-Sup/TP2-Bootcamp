@@ -1,3 +1,2 @@
 # TP2-Bootcamp
-Gestion de contacts en PHP
-http://localhost/tp2/pages/index.php
+Pour accéder au site du projet l'adresse est : http://localhost/tp2/pages/index.php
