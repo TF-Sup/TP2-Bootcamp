@@ -3,9 +3,9 @@ Pour accéder au site du projet l'adresse est : http://localhost/tp2/pages/index
 Pour accéder à une description plus approfondit du projet :
  
 ## Avant de commencer :
-Pour améliorer ma procédure de test j'ai fait en sorte que lors de la création mais aussi si tout les contacts on étaient supprimer un contact nommé TEST est créer.
-L'architecture : 
-![image](https://github.com/user-attachments/assets/c44bee20-01d1-4f68-8ba4-dd833a0d3d36)
+* Pour améliorer ma procédure de test j'ai fait en sorte que lors de la création mais aussi si tout les contacts on étaient supprimer un contact nommé TEST est créer.
+* wiki de L'architecture : 
+
 
 
 ## Explication des boutons :
