@@ -1,5 +1,6 @@
 <?php
-require '../includes/db.php';
+require '../includes/db.php';     // Inclut la connexion à la base de données
+require '../includes/logique.php'; // Inclut les fonctions CRUD
 
 if (isset($_GET['id'])) {
     $id = $_GET['id'];

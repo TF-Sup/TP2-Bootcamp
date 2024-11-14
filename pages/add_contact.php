@@ -10,7 +10,8 @@
     <h1>Ajouter un nouveau contact</h1>
 
     <?php
-    require '../includes/db.php';
+    require '../includes/db.php';     // Inclut la connexion à la base de données
+    require '../includes/logique.php'; // Inclut les fonctions CRUD
     $errorMessage = '';
 
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {

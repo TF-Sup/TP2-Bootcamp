@@ -11,7 +11,8 @@
     <a href="add_contact.php" class="add-contact">Ajouter un nouveau contact</a>
     
     <?php
-    require '../includes/db.php';
+    require '../includes/db.php';     // Inclut la connexion à la base de données
+    require '../includes/logique.php'; // Inclut les fonctions CRUD
     $pdo = connectDB();
     $stmt = $pdo->query("SELECT * FROM contacts");
     $contacts = $stmt->fetchAll();
