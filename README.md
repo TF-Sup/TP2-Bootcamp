@@ -5,30 +5,7 @@ Pour accéder à une description plus approfondit du projet :
 ## Avant de commencer :
 Pour améliorer ma procédure de test j'ai fait en sorte que lors de la création mais aussi si tout les contacts on étaient supprimer un contact nommé TEST est créer.
 L'architecture : 
-TP2
-│
-├── css                   # Dossier pour les fichiers CSS
-│   ├── input.css
-│   ├── output.css
-│   └── style.css
-│
-├── includes              # Dossier pour les fichiers PHP réutilisables et la logique
-│   ├── db.php
-│   ├── footer.php
-│   ├── header.php
-│   └── logique.php       # Fichier pour les opérations de suppression et autres logiques partagées
-│
-├── pages                 # Dossier pour les pages principales
-│   ├── add_contact.php
-│   ├── contact.php
-│   ├── edit_contact.php
-│   └── index.php
-│
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── readme.md
-└── tailwind.config.js
+![image](https://github.com/user-attachments/assets/c44bee20-01d1-4f68-8ba4-dd833a0d3d36)
 
 
 ## Explication des boutons :
